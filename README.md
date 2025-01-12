@@ -18,8 +18,13 @@ Wir stehen noch ganz am Anfang dieses Weges und sind jederzeit für jede Hilfe d
 ---
 
 # Acknowledgements
+## Contributors
+Aktuell stemmt unser Kern-Team (@timelaut) die Arbeit. Wenn Du dazustoßen möchtest, lass es uns gerne wissen. Deinen Einsatz wollen wir gerne öffentlich schätzen.
+
+## Tools
 - https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en
 - https://shields.io/
 
-# License
+## License
 ![license](https://img.shields.io/badge/License-CC%20BY%20NC%20ND%204.0-purple)
+Unsere Arbeit gehört uns und damit Euch. Das heißt, wir verbitten es, dass andere Profit aus diesem Werk schlagen. Daher haben wir uns für diesen Lizenztyp entschieden.
