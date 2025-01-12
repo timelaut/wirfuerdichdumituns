@@ -17,9 +17,9 @@ Wir stehen noch ganz am Anfang dieses Weges und sind jederzeit für jede Hilfe d
 
 ---
 
-# Credits und Danke
+# Acknowledgements
 - https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en
 - https://shields.io/
 
-# Badges
-https://img.shields.io/badge/License%20-%20CC%20BY%20NC%20ND%204.0%20-%20purple
+# License
+!\[license\](https://img.shields.io/badge/License%20-%20CC%20BY%20NC%20ND%204.0%20-%20purple)
