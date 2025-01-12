@@ -22,4 +22,4 @@ Wir stehen noch ganz am Anfang dieses Weges und sind jederzeit für jede Hilfe d
 - https://shields.io/
 
 # License
-!\[license\](https://img.shields.io/badge/License%20-%20CC%20BY%20NC%20ND%204.0%20-%20purple)
+![license](https://img.shields.io/badge/License-CC%20BY%20NC%20ND%204.0-purple)
