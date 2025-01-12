@@ -14,3 +14,12 @@ Um es konkreter zu fassen: Leute, die Hilfe suchen im Bereich mentaler Gesundhei
 
 ## Klingt gut. Kann ich euch helfen?
 Wir stehen noch ganz am Anfang dieses Weges und sind jederzeit für jede Hilfe dankbar. Das Erstellen dieses Repos ist der erste Schritt. Das Ganze ist gemeinnützig und unser Team arbeitet unentgeltlich. Aktuell kannst du uns am Besten erreichen, indem Du diesen GitHub-Account anschreibst. Dann melden wir uns. Oder vielleicht auch nicht, weil die Energie fehlt. Zwinker.
+
+---
+
+# Credits und Danke
+- https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en
+- https://shields.io/
+
+# Badges
+https://img.shields.io/badge/License%20-%20CC%20BY%20NC%20ND%204.0%20-%20purple
