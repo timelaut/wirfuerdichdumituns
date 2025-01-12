@@ -10,4 +10,4 @@ Currently there is no stable release available.
 
 ## Reporting a Vulnerability
 
-Write a disclosed message to the main contributor @timelaut
+Write a disclosed message to the main contributor @timelaut (https://github.com/timelaut)
